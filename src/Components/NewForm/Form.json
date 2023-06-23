@@ -1,0 +1,11 @@
+{
+    "fields": [],
+    "isValid": true,
+    "submitUrl": "",
+    "isDirty": true,
+    "contentType": "",
+    "postSubmitAction": "function",
+    "apiMessage": "",
+    "isChanged": true,
+    "entityType": ""
+}

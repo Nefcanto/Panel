@@ -1,0 +1,38 @@
+[
+    {
+        "locale": "fa",
+        "translations": {
+            "Keywords": "کلمات کلیدی",
+            "Manage SEO": "مدیریت موتور جستجو",
+            "Meta description": "توضیحات متا",
+            "Meta title": "عنوان متا",
+            "Page description": "توضیحات صفحه",
+            "Page title": "عنوان صفحه",
+            "Please provide a title for the page": "لطفا عنوان صفحه را مشخص کنید"
+        }
+    },
+    {
+        "locale": "ar",
+        "translations": {
+            "Keywords": "الكلمات الدالة",
+            "Manage SEO": "إدارة تحسين محرك البحث",
+            "Meta description": "ميتا الوصف",
+            "Meta title": "عنوان الفوقية",
+            "Page description": "الصفحة الوصف",
+            "Page title": "عنوان الصفحة",
+            "Please provide a title for the page": "يرجى تقديم عنوان للصفحة"
+        }
+    },
+    {
+        "locale": "ru",
+        "translations": {
+            "Keywords": "Ключевые слова",
+            "Manage SEO": "Управление поисковой оптимизацией",
+            "Meta description": "Мета-описание",
+            "Meta title": "Мета-заголовок",
+            "Page description": "Описание страницы",
+            "Page title": "Заголовок страницы",
+            "Please provide a title for the page": "Укажите название страницы"
+        }
+    }
+]
